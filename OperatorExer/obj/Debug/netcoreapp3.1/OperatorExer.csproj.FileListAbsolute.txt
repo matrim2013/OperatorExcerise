@@ -1,0 +1,13 @@
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\bin\Debug\netcoreapp3.1\OperatorExer.exe
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\bin\Debug\netcoreapp3.1\OperatorExer.deps.json
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\bin\Debug\netcoreapp3.1\OperatorExer.runtimeconfig.json
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\bin\Debug\netcoreapp3.1\OperatorExer.runtimeconfig.dev.json
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\bin\Debug\netcoreapp3.1\OperatorExer.dll
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\bin\Debug\netcoreapp3.1\OperatorExer.pdb
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\obj\Debug\netcoreapp3.1\OperatorExer.csprojAssemblyReference.cache
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\obj\Debug\netcoreapp3.1\OperatorExer.AssemblyInfoInputs.cache
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\obj\Debug\netcoreapp3.1\OperatorExer.AssemblyInfo.cs
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\obj\Debug\netcoreapp3.1\OperatorExer.csproj.CoreCompileInputs.cache
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\obj\Debug\netcoreapp3.1\OperatorExer.dll
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\obj\Debug\netcoreapp3.1\OperatorExer.pdb
+C:\Users\Abraham\TrueCoders\Repos\OperatorExer\OperatorExer\obj\Debug\netcoreapp3.1\OperatorExer.genruntimeconfig.cache
